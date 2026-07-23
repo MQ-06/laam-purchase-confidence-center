@@ -14,7 +14,7 @@ A full-stack solution built for the **LAAM Software Engineer Assessment**. The p
 
 | Mathematical Factor Breakdown Expanded |
 |:---:|
-| ![Score Factor Breakdown](./screenshots/score-breakdown.png) |
+| ![Score Factor Breakdown](./Screenshots/score-breakdown.png) |
 
 ---
 
