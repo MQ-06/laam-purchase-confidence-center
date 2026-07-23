@@ -10,7 +10,7 @@ A full-stack solution built for the **LAAM Software Engineer Assessment**. The p
 
 | Catalog & Browse View | Product Detail & Confidence Center |
 |:---:|:---:|
-| ![Catalog View](./screenshots/catalog-view.png) | ![Confidence Panel](./screenshots/confidence-panel.png) |
+| ![Catalog View](./Screenshots/catalog-view.png) | ![Confidence Panel](./Screenshots/confidence-panel.png) |
 
 | Mathematical Factor Breakdown Expanded |
 |:---:|
