@@ -1,6 +1,6 @@
 # LAAM — Purchase Confidence Center
 
-A full-stack solution built for the **LAAM Software Engineer Assessment**. The project addresses customer hesitation in online fashion marketplaces by consolidating scattered signals — size availability, transparent pricing, delivery reliability, seller trust, and smart alternatives — into an explainable **Purchase Confidence Score (0–100)**.
+A full-stack solution built for the **LAAM Software Engineer Assessment**. The project addresses customer hesitation in online fashion marketplaces by consolidating scattered signals - size availability, transparent pricing, delivery reliability, seller trust, and smart alternatives into an explainable **Purchase Confidence Score (0–100)**.
 
 > 📦 **GitHub Repository:** [https://github.com/MQ-06/laam-purchase-confidence-center](https://github.com/MQ-06/laam-purchase-confidence-center)
 
