@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+/*
+ * LAAM — Luxury Nude & Calm Design System
+ * Typography: Plus Jakarta Sans (Body) & Cormorant Garamond (Display Headings)
+ */
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  color: #18181B;
+  background-color: #FAF9F6;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #FAF9F6;
+  color: #18181B;
+}
+
+h1, h2, h3, .font-serif-luxury {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+/* Custom Color Tokens */
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+
+  --color-nude-50: #FDFBF7;
+  --color-nude-100: #F7F4EE;
+  --color-nude-200: #EFECE4;
+  --color-nude-300: #E2DDD3;
+  --color-nude-400: #CEBCA6;
+  --color-gold-500: #B89355;
+  --color-gold-600: #A27F43;
+}
+
+/* Animations */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-down {
+  animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
