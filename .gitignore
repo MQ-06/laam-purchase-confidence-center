@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+client/dist/
+server/dist/
+
+# OS generated files
+.DS_Store
+*.log
