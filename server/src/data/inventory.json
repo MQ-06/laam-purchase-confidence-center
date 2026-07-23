@@ -1,0 +1,42 @@
+[
+  { "id": "inv-001", "productId": "prod-001", "size": "S",   "stock": 5,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:00:00Z" },
+  { "id": "inv-002", "productId": "prod-001", "size": "M",   "stock": 12, "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:00:00Z" },
+  { "id": "inv-003", "productId": "prod-001", "size": "L",   "stock": 2,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:00:00Z" },
+  { "id": "inv-004", "productId": "prod-001", "size": "XL",  "stock": 0,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:00:00Z" },
+  { "id": "inv-005", "productId": "prod-001", "size": "XXL", "stock": 0,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-22T08:00:00Z" },
+
+  { "id": "inv-006", "productId": "prod-002", "size": "XS",  "stock": 8,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T09:30:00Z" },
+  { "id": "inv-007", "productId": "prod-002", "size": "S",   "stock": 15, "warehouse": "Delhi",     "lastUpdated": "2026-07-23T09:30:00Z" },
+  { "id": "inv-008", "productId": "prod-002", "size": "M",   "stock": 3,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T09:30:00Z" },
+  { "id": "inv-009", "productId": "prod-002", "size": "L",   "stock": 0,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T09:30:00Z" },
+  { "id": "inv-010", "productId": "prod-002", "size": "XL",  "stock": 0,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T09:30:00Z" },
+
+  { "id": "inv-011", "productId": "prod-003", "size": "S",   "stock": 20, "warehouse": "Lucknow",   "lastUpdated": "2026-07-23T11:00:00Z" },
+  { "id": "inv-012", "productId": "prod-003", "size": "M",   "stock": 18, "warehouse": "Lucknow",   "lastUpdated": "2026-07-23T11:00:00Z" },
+  { "id": "inv-013", "productId": "prod-003", "size": "L",   "stock": 10, "warehouse": "Lucknow",   "lastUpdated": "2026-07-23T11:00:00Z" },
+  { "id": "inv-014", "productId": "prod-003", "size": "XL",  "stock": 6,  "warehouse": "Lucknow",   "lastUpdated": "2026-07-23T11:00:00Z" },
+
+  { "id": "inv-015", "productId": "prod-004", "size": "S",   "stock": 1,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T08:00:00Z" },
+  { "id": "inv-016", "productId": "prod-004", "size": "M",   "stock": 7,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T08:00:00Z" },
+  { "id": "inv-017", "productId": "prod-004", "size": "L",   "stock": 0,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T08:00:00Z" },
+  { "id": "inv-018", "productId": "prod-004", "size": "XL",  "stock": 0,  "warehouse": "Delhi",     "lastUpdated": "2026-07-23T08:00:00Z" },
+
+  { "id": "inv-019", "productId": "prod-005", "size": "M",   "stock": 4,  "warehouse": "Chennai",   "lastUpdated": "2026-07-23T07:00:00Z" },
+  { "id": "inv-020", "productId": "prod-005", "size": "L",   "stock": 3,  "warehouse": "Chennai",   "lastUpdated": "2026-07-23T07:00:00Z" },
+
+  { "id": "inv-021", "productId": "prod-006", "size": "S",   "stock": 0,  "warehouse": "Lucknow",   "lastUpdated": "2026-07-22T18:00:00Z" },
+  { "id": "inv-022", "productId": "prod-006", "size": "M",   "stock": 0,  "warehouse": "Lucknow",   "lastUpdated": "2026-07-22T18:00:00Z" },
+  { "id": "inv-023", "productId": "prod-006", "size": "L",   "stock": 0,  "warehouse": "Lucknow",   "lastUpdated": "2026-07-22T18:00:00Z" },
+  { "id": "inv-024", "productId": "prod-006", "size": "XL",  "stock": 0,  "warehouse": "Lucknow",   "lastUpdated": "2026-07-22T18:00:00Z" },
+
+  { "id": "inv-025", "productId": "prod-007", "size": "S",   "stock": 2,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:30:00Z" },
+  { "id": "inv-026", "productId": "prod-007", "size": "M",   "stock": 0,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:30:00Z" },
+  { "id": "inv-027", "productId": "prod-007", "size": "L",   "stock": 6,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:30:00Z" },
+  { "id": "inv-028", "productId": "prod-007", "size": "XL",  "stock": 9,  "warehouse": "Mumbai",    "lastUpdated": "2026-07-23T10:30:00Z" },
+
+  { "id": "inv-029", "productId": "prod-008", "size": "XS",  "stock": 10, "warehouse": "Hyderabad", "lastUpdated": "2026-07-23T12:00:00Z" },
+  { "id": "inv-030", "productId": "prod-008", "size": "S",   "stock": 14, "warehouse": "Hyderabad", "lastUpdated": "2026-07-23T12:00:00Z" },
+  { "id": "inv-031", "productId": "prod-008", "size": "M",   "stock": 8,  "warehouse": "Hyderabad", "lastUpdated": "2026-07-23T12:00:00Z" },
+  { "id": "inv-032", "productId": "prod-008", "size": "L",   "stock": 1,  "warehouse": "Hyderabad", "lastUpdated": "2026-07-23T12:00:00Z" },
+  { "id": "inv-033", "productId": "prod-008", "size": "XL",  "stock": 5,  "warehouse": "Hyderabad", "lastUpdated": "2026-07-23T12:00:00Z" }
+]

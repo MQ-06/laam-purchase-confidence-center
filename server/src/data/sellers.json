@@ -1,0 +1,42 @@
+[
+  {
+    "id": "seller-001",
+    "name": "Bin Tayyab",
+    "rating": 4.4,
+    "reviewCount": 12,
+    "onTimeDeliveryRate": 96,
+    "verified": true
+  },
+  {
+    "id": "seller-002",
+    "name": "Aik Pret",
+    "rating": 4.1,
+    "reviewCount": 63,
+    "onTimeDeliveryRate": 92,
+    "verified": true
+  },
+  {
+    "id": "seller-003",
+    "name": "Rang-e-Haya",
+    "rating": 3.7,
+    "reviewCount": 18,
+    "onTimeDeliveryRate": 85,
+    "verified": true
+  },
+  {
+    "id": "seller-004",
+    "name": "Polawn",
+    "rating": 4.6,
+    "reviewCount": 8,
+    "onTimeDeliveryRate": 94,
+    "verified": true
+  },
+  {
+    "id": "seller-005",
+    "name": "Nawab Collection",
+    "rating": 4.0,
+    "reviewCount": 34,
+    "onTimeDeliveryRate": 89,
+    "verified": false
+  }
+]

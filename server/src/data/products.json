@@ -1,0 +1,170 @@
+[
+  {
+    "id": "prod-001",
+    "title": "BT006749-PST Printed Lawn Kurta Set",
+    "brandId": "seller-001",
+    "category": "Kurta Set",
+    "basePrice": 42.99,
+    "discountPercent": 40,
+    "discountExpiresAt": null,
+    "images": [
+      "/1.webp",
+      "/2.webp"
+    ],
+    "attributes": {
+      "Fabric": "Printed Lawn",
+      "Work": "Digital Print & Lace Work",
+      "Occasion": "Pret / Casual",
+      "Fit": "Regular Fit",
+      "Care": "Machine Washable"
+    },
+    "returnEligible": true
+  },
+  {
+    "id": "prod-002",
+    "title": "Mah E Noor - MPT-6(A) Embroidered Suit",
+    "brandId": "seller-002",
+    "category": "Kurta Set",
+    "basePrice": 43.99,
+    "discountPercent": 17,
+    "discountExpiresAt": "2026-07-20T23:59:59Z",
+    "images": [
+      "/2.webp",
+      "/3.webp"
+    ],
+    "attributes": {
+      "Fabric": "Slub Lawn with Net Dupatta",
+      "Work": "Schiffli & Thread Embroidery",
+      "Occasion": "Pret / Festive",
+      "Fit": "Straight Cut",
+      "Care": "Dry Clean Only"
+    },
+    "returnEligible": true
+  },
+  {
+    "id": "prod-003",
+    "title": "Zeenat (White) Long Anarkali Gown",
+    "brandId": "seller-003",
+    "category": "Anarkali",
+    "basePrice": 242.99,
+    "discountPercent": 55,
+    "discountExpiresAt": null,
+    "images": [
+      "/3.webp",
+      "/4.webp"
+    ],
+    "attributes": {
+      "Fabric": "Georgette Silk",
+      "Work": "Mirror & Thread Work",
+      "Occasion": "Festive / Party",
+      "Fit": "Full Length Flared",
+      "Care": "Dry Clean Only"
+    },
+    "returnEligible": true
+  },
+  {
+    "id": "prod-004",
+    "title": "PD-LAWN-26-167-A | Pret Collection",
+    "brandId": "seller-004",
+    "category": "Kurta Set",
+    "basePrice": 64.99,
+    "discountPercent": 50,
+    "discountExpiresAt": "2026-08-15T23:59:59Z",
+    "images": [
+      "/4.webp",
+      "/5.webp"
+    ],
+    "attributes": {
+      "Fabric": "Cotton Lawn",
+      "Work": "Monochrome Geometric Print",
+      "Occasion": "Pret / Daily Wear",
+      "Fit": "Stitched 3-Piece",
+      "Care": "Hand Wash"
+    },
+    "returnEligible": false
+  },
+  {
+    "id": "prod-005",
+    "title": "Bring Embroidered Silk Khussa",
+    "brandId": "seller-005",
+    "category": "Footwear",
+    "basePrice": 14.99,
+    "discountPercent": 40,
+    "discountExpiresAt": null,
+    "images": [
+      "/5.webp",
+      "/6.webp"
+    ],
+    "attributes": {
+      "Material": "Pure Leather Sole with Silk Upper",
+      "Work": "Handcrafted Dabka & Beadwork",
+      "Occasion": "Bridal / Festive Footwear",
+      "Fit": "True to Size",
+      "Care": "Keep Dry"
+    },
+    "returnEligible": true
+  },
+  {
+    "id": "prod-006",
+    "title": "Zun-93 Pearl Embellished Khussa",
+    "brandId": "seller-005",
+    "category": "Footwear",
+    "basePrice": 18.99,
+    "discountPercent": 25,
+    "discountExpiresAt": "2026-07-10T23:59:59Z",
+    "images": [
+      "/6.webp",
+      "/1.webp"
+    ],
+    "attributes": {
+      "Material": "Velvet Upper & Genuine Leather Base",
+      "Work": "Pearl & Sequin Handwork",
+      "Occasion": "Wedding Footwear",
+      "Fit": "Padded Sole",
+      "Care": "Spot Clean Only"
+    },
+    "returnEligible": true
+  },
+  {
+    "id": "prod-007",
+    "title": "Noir Velvet Zardozi Suit",
+    "brandId": "seller-002",
+    "category": "Kurta Set",
+    "basePrice": 89.99,
+    "discountPercent": 38,
+    "discountExpiresAt": null,
+    "images": [
+      "/7.webp",
+      "/1.webp"
+    ],
+    "attributes": {
+      "Material": "Black Micro Velvet",
+      "Work": "Tilla & Zardozi Gold Work",
+      "Occasion": "Evening / Party",
+      "Fit": "Soft Silk Lining",
+      "Care": "Dry Clean Only"
+    },
+    "returnEligible": false
+  },
+  {
+    "id": "prod-008",
+    "title": "Zun-92 Mirrorwork Traditional Lehenga",
+    "brandId": "seller-001",
+    "category": "Lehenga",
+    "basePrice": 159.99,
+    "discountPercent": 25,
+    "discountExpiresAt": null,
+    "images": [
+      "/8.webp",
+      "/2.webp"
+    ],
+    "attributes": {
+      "Material": "Raw Silk & Organza Dupatta",
+      "Work": "Mirrorwork & Threading",
+      "Occasion": "Festive / Mehndi",
+      "Fit": "Semi-Stitched",
+      "Care": "Dry Clean Only"
+    },
+    "returnEligible": true
+  }
+]
